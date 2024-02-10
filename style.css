@@ -18,3 +18,13 @@
 .favourite-place .single-place .place-img img {
     max-height: 253px;
 }
+.title-rework{
+    text-align: center;
+    align-items: center;
+}
+
+.footer-social-footer{
+    justify-content: center;
+    display: flex;
+    gap: 10px;
+}
